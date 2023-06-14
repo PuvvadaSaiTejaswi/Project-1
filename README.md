@@ -9,13 +9,21 @@ Project demo video link -
 
 
 Azure technologies used for Project are-
+
 • Static web apps
+
 • Features and Functionalities 😃
+
 • Interactive and responsive UI.
+
 • Has many graphical and visual innovative effects.
+
 • Have an aesthetically pleasing visual design and architecture.
+
 • Has collection of many web pages including Home, About Us, Contact, Menu etc.
+
 • User can know about covid related information through this website.
+
 
 
 Images of the Website:
