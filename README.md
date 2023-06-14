@@ -1,8 +1,7 @@
 # Project-1
 ✨ Covido ✨
 
-This is a web based application developed for getting updates about Corona in India
-This web based application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+This is a web based application developed for getting updates about Corona in India. This web based application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 Project Link - https://happy-tree-0c50e3b00.3.azurestaticapps.net/
 
