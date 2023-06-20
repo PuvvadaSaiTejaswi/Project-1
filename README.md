@@ -24,6 +24,8 @@ Azure technologies used for Project are-
 
 • User can know about covid related information through this website.
 
+• With a new user interactive bot
+
 
 
 Images of the Website:
