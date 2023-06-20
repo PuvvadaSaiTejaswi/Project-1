@@ -86,6 +86,15 @@ Footer of the page
 
 
 
+Chat Bot
+
+
+<img width="960" alt="image" src="https://github.com/PuvvadaSaiTejaswi/Project-1/assets/119936972/e4da78da-35e7-4e64-bbe7-d0584565c4fe">
+
+
+
+
+
 Tech Stack 💻:
 Azure(Hosting)
 HTML
