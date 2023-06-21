@@ -1,4 +1,7 @@
-###### Covido
+<div align="center">
+<h1>Covido</h1>
+</div>
+
 
 This is a web based application developed for getting updates about Corona in India. This web based application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
@@ -21,8 +24,6 @@ The COVID-19 pandemic has had a profound impact on the world, causing immense lo
 
 **Mental Health Support:** Recognizing the impact of the pandemic on mental well-being, our web page will provide resources and links to mental health support services. Users can access information on coping strategies, self-care, and professional assistance.
 
-**Safe Travel Guidelines:** The web page will include guidelines and recommendations for safe travel during the pandemic. Users can find information on travel restrictions, health precautions, and relevant resources to help them make informed decisions.
-
 **Health Chatbot:** To provide personalized assistance and address user queries, we will incorporate a health chatbot using advanced technologies. The chatbot will be designed to understand and respond to common COVID-related questions, provide information, and offer support in a conversational manner
 
 ### Getting Started
@@ -32,6 +33,33 @@ To access the **Covido** platform, follow these steps:
 1. Open a web browser.
 2. Navigate to the deployed website URL: *https://happy-tree-0c50e3b00.3.azurestaticapps.net/*
 3. Explore the various features offered by the platform, such as health bot, corona information and the ways to protect yourself from it.
+
+### Tech Stack 💻 
+
+[![HTML](https://img.shields.io/badge/HTML-5-orange?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+[![CSS](https://img.shields.io/badge/CSS-3-blue?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+[![jQuery](https://img.shields.io/badge/jQuery-3.6.0-blue?style=flat-square&logo=jquery&logoColor=white)](https://jquery.com/)
+
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.1.0-purple?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+
+[![Azure](https://img.shields.io/badge/Azure-Cloud-blue?style=flat-square&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+
+[![Azure Health Bot](https://img.shields.io/badge/Azure%20Health%20Bot-Conversational%20AI-blue?style=flat-square&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/services/health-bot/)
+
+### Deployment
+
+• Covido is deployed on the Azure cloud platform. 
+
+• The deployment process ensures that the web page is accessible to users online. 
+
+• The platform leverages the scalability and reliability of Azure for hosting the static web page and providing a seamless user experience.
+
+
+
 
 ### Future Enhancements
 
@@ -139,10 +167,5 @@ Join us in our mission to combat misinformation, promote covid literacy, and sup
 
 
 
-### Tech Stack 💻 
 
-Azure(Hosting)
-HTML
-CSS
-Bootstrap
-JavaScript
+
