@@ -161,10 +161,10 @@ Join us in our mission to combat misinformation, promote covid literacy, and sup
 
 
 <div align="center">
+  <h1>Project Url: https://happy-tree-0c50e3b00.3.azurestaticapps.net/</h1>
+ 
  <h1>Project Demo Video URL:       </h1> 
 
-    
- <h1>Project Url: https://happy-tree-0c50e3b00.3.azurestaticapps.net/</h1>
 </div>
 
 
