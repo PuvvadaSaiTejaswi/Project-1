@@ -61,7 +61,7 @@ The COVID-19 web page can be further enhanced in the future to provide an even b
 
 These future enhancements can further improve the COVID-19 web page's utility, usability, and relevance, providing users with valuable information, resources, and support during the ongoing pandemic.
 
-**Conclusion**
+### Conclusion
 
 With this dedicated COVID web page, we aim to empower individuals and communities by providing reliable information and facilitating access to essential resources. By curating accurate information, offering a health chat bot, and consolidating various features, we strive to create a comprehensive and reliable platform that helps users navigate the challenges posed by the ongoing COVID-19 pandemic.
 
