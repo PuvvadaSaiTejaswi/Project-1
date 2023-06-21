@@ -1,6 +1,4 @@
- Project-1
- 
-### Covido
+###### Covido
 
 This is a web based application developed for getting updates about Corona in India. This web based application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
