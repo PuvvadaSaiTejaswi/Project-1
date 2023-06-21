@@ -5,10 +5,6 @@
 
 This is a web based application developed for getting updates about Corona in India. This web based application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
-Project Link - https://happy-tree-0c50e3b00.3.azurestaticapps.net/
-
-Project demo video link -
-
 ### Project Description
 
 The COVID-19 pandemic has had a profound impact on the world, causing immense loss of life, disrupting economies, and straining healthcare systems. In the face of this global crisis, there is a critical need for a comprehensive and reliable web page that serves as a trusted source of information, resources, and support related to COVID-19. Our proposed COVID web page aims to be a one-stop destination for users seeking credible information, resources, and support during the ongoing pandemic. By curating accurate information from reputable sources, our web page will provide the latest updates on COVID-19, prevention strategies, treatment options, and vaccination progress. Additionally, it will offer easy-to-access resources such as testing site locators, mental health support, and guidelines for safe travel. With this dedicated COVID web page, we aim to empower individuals and communities by providing reliable information and facilitating access to essential resources.
@@ -162,6 +158,14 @@ Join us in our mission to combat misinformation, promote covid literacy, and sup
 
 
 <img width="960" alt="image" src="https://github.com/PuvvadaSaiTejaswi/Project-1/assets/119936972/e4da78da-35e7-4e64-bbe7-d0584565c4fe">
+
+
+<div align="center">
+ <h1>Project Demo Video URL:       </h1> 
+
+    
+ <h1>Project Url: https://happy-tree-0c50e3b00.3.azurestaticapps.net/</h1>
+</div>
 
 
 
